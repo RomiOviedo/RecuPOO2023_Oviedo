@@ -96,7 +96,10 @@ namespace RecuPOO2023.Entidades
             return !(m1==m2);
         }
 
+        public static string PruebaParaGuit()
+        {
 
+        }
 
 
 
